@@ -1,0 +1,12 @@
+.project-card {
+    display: inline-block;
+    margin: 0 20px;
+}
+
+.project-technologies {
+    margin-left: 18px;
+    color: #343a40;
+    font-family: 'Saira Extra Condensed', serif;
+    font-weight: 500;
+    text-transform: uppercase;
+}
